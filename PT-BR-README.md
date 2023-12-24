@@ -17,7 +17,7 @@ Este projeto consiste em uma página inicial simples, não responsiva, dedicada 
 1. Clone o repositório para sua máquina local.
 
     ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/gabrielcamarate/landingpage-SealWorld.git
     ```
 
 2. Abra o arquivo **index.html** no seu navegador da web preferido.
