@@ -17,7 +17,7 @@ This project is a simple non-responsive landing page dedicated to providing enga
 1. Clone the repository to your local machine.
 
     ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.comgabrielcamarate/landingpage-SealWorld.git
     ```
 
 2. Open the **index.html** file in your preferred web browser.
